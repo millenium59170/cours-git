@@ -18,3 +18,20 @@ On ajoute du code HTML.
 <h1>Test</h1>
 ```
 
+## Nouveau Titre
+
+un petit bout de code `<p>lorem</p>`
+
+### Une liste HTML
+
+- item 1
+- item 2
+- item 3
+
+* item 1
+* item 2
+* item 3
+
+### Un lien HTML
+
+[Aller sur Google](http://google.com)
